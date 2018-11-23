@@ -1,0 +1,9 @@
+{
+  "web": {
+    "client_id": "your client id",
+    "client_secret": "your client seceret",
+    "redirect_uris": [
+      "http://localhost:3000/oauth2callback"
+    ]
+  }
+}
